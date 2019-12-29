@@ -1,14 +1,11 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+templateKey: product-page
+title: Vegan Vibes
+image: /img/steltenpool-lisa-vegan-vibes-3d.png
+heading: Plantaardig eten heeft de toekomst
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Vegan eten is inmiddels één van de snelst groeiende trends wereldwijd.  Maar
+  hoe doe je dit op een gezonde, goed onderbouwde manier?
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -99,3 +96,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
