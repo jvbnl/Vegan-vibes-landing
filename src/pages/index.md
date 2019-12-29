@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: Binnenkort verkrijgbaar
+image: /img/bw_veganvibes_pers.png
+heading: Vegan
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
