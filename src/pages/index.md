@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Vegan Vibes
-image: /img/bw_veganvibes_pers.png
+image: /img/bg.png
 heading: Vegan
 subheading: >-
   Het meest complete boek over hoe plantaardig eten je leven en de wereld
