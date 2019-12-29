@@ -1,9 +1,11 @@
 ---
 templateKey: index-page
-title: Binnenkort verkrijgbaar
+title: Vegan Vibes
 image: /img/bw_veganvibes_pers.png
 heading: Vegan
-subheading: Support sustainable farming while enjoying a cup
+subheading: >-
+  Het meest complete boek over hoe plantaardig eten je leven en de wereld
+  verbetert.
 mainpitch:
   title: Why Kaldi
   description: >
